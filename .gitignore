@@ -1,0 +1,15 @@
+.next/
+node_modules/
+.npm-cache/
+.vscode/
+out/
+dist/
+__pycache__/
+*.py[cod]
+.env
+.env.local
+.env.*.local
+*.log
+*.err
+.next-dev.*
+tsconfig.tsbuildinfo
